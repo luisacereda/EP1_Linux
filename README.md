@@ -3,6 +3,8 @@ informações sobre o funcionamento de Linux
 
 O Linux é um sistema operacional de código aberto que foi desenvolvido originalmente por Linus Torvalds em 1991. Ele é baseado no kernel Linux, que é o núcleo do sistema operacional, responsável por gerenciar os recursos do hardware e permitir que os programas interajam com o hardware do computador.
 
+![R](https://github.com/luisacereda/EP1_Linux/assets/106029376/1f4022da-7364-447b-9f63-ac151d8f6bda)
+
 Uma das principais características do Linux é ser um sistema operacional de código aberto, o que significa que o código-fonte do sistema está disponível para qualquer pessoa estudar, modificar e distribuir. Isso promove a colaboração e permite que comunidades de desenvolvedores contribuam para o seu aprimoramento.
 
 
